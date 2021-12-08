@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=juillets&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![juillets's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juillets&layout=compact&hide_border=true&langs_count=10)
-https://stats.justsong.cn/api/bilibili/?id=67811903&theme=dark
+![juillets's Most used languages](https://stats.justsong.cn/api/bilibili/?id=67811903)
+
