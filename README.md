@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/juillets"><img src="https://github-readme-stats.vercel.app/api?username=juillets&show_icons=true" alt="juillets's github stats"></a>
-  <a href="https://github.com/juillets"><img src="https://stats.justsong.cn/api/bilibili/?id=67811903" alt="juillets's github stats"></a>
+  <a href="https://music.163.com/#/user/home?id=421161049"><img src="https://stats.justsong.cn/api/bilibili/?id=67811903" alt="juillets's github stats"></a>
 </p>
 
 
