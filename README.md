@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=juillets&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![juillets's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juillets&layout=compact&hide_border=true&langs_count=10)
-![juillets's Most used languages](https://stats.justsong.cn/api/bilibili/?id=67811903)
+
+<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+
+<p align="center">
+  <a href="https://github.com/juillets"><img src="https://github-readme-stats.vercel.app/api?username=juillets&show_icons=true" alt="juillets's github stats"></a>
+  <a href="https://github.com/juillets"><img src="https://stats.justsong.cn/api/bilibili/?id=67811903" alt="juillets's github stats"></a>
+</p>
+
+
+<p align="center"></p>
 
