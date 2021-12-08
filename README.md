@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=juillets&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![](http://antzuhl.cn:4000/get/@juillets.readme)
+![](http://antzuhl.cn:4000/get/@juillets.readme)\n
 ![juillets's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=juillets&show_icons=true&count_private=true&theme=gotham)
