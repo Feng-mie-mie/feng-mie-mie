@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋 Hi+there!+I'm+miemieFeng)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9F%91%8B+Hi+there!+I'm+miemieFeng)](https://git.io/typing-svg)
 <div align="left">
 
 
