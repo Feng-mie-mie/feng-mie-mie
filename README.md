@@ -5,7 +5,7 @@
 
 Welcome to my Github page!
 
-<img align="right" alt="img" src="[https://www.dmoe.cc/random.php?postid=135&type=url&itype=image]" width="50%" height="auto" />
+<img align="right" alt="img" src="https://www.dmoe.cc/random.php?postid=135&type=url&itype=image" width="50%" height="auto" />
 
 
 #### 🌱 我目前正在: 
