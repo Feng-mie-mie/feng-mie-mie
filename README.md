@@ -10,7 +10,7 @@ Welcome to my Github page!
 
 #### 🌱 我目前正在: 
 - 上班  
-- 社畜
+- 尝试 Android & ios 开发
 - 攒钱
 
 #### :muscle: 正在坚持做的事:
