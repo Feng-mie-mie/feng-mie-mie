@@ -1,36 +1,42 @@
-### Hi there 👋 
-### This is miemieFeng!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/miemieFeng)
-
-Welcome to my Github page!
-
-<img align="right" alt="img" src="[https://www.dmoe.cc/random.php?postid=135&type=url&itype=image](https://www.dmoe.cc/random.php?postid=133&type=url&itype=image&th=640 640w)" width="50%" height="auto" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋 Hi+there!+I'm+miemieFeng)](https://git.io/typing-svg)
+<div align="left">
 
 
-#### 🌱 我目前正在: 
-- 上班  
-- 尝试 Android & ios 开发
-- 攒钱
+[![github](https://img.shields.io/badge/miemieFeng-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miemieFeng/)
+![](https://komarev.com/ghpvc/?username=miemieFenge&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
-#### :muscle: 正在坚持做的事:
-- code
-- Coding at least 4 hours a day
-- 通过工作以外的事提升自己
+ 
+</div>  
+<p align="justify"> 
+Hello 🖐️ friends, welcome to my github
+I am satisfied and I tried most fields of programming such as game development, mobile application development, web design and development, etc., and finally I was able to find my interest, and that was web design and development and security . It has been almost 10 years. I am coding and now I am a computer engineering student
+&nbsp;
 
-#### :computer: Programming languages and tools: 
-<p>
-	
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=miemieFeng&show_icons=true&theme=radical" />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+In addition to my personal page, you can also follow my main page called <a href="https://www.instagram.com/barnamenevisiinsta/">barnamenevisiinsta</a> on Instagram.
 </p>
+
+
+<p align="left">
+I code with :  👇
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+&nbsp;
+&nbsp;
+## 📊 Github stats
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="miemieFeng's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=miemieFeng&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="miemieFeng's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miemieFeng&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
+
+<details>
+  <summary>📈 Activity Graph</summary>
+  <br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="miemieFeng's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=miemieFeng&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
+</details>
