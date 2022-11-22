@@ -8,7 +8,7 @@
  
 </div>  
 <p align="justify"> 
-Hello 🖐️ friends, welcome to my github
+<p>Hello 🖐️ friends, welcome to my github</p>
 我是一名Java开发，当然偶尔也写一写前端。
  
 &nbsp;
